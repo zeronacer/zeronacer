@@ -3,14 +3,18 @@ Als Full-Stack-Webentwickler aus Lübeck arbeite ich mithilfe von PHP, React und
 Besuch mich auf [grabau.dev](https://grabau.dev/). 🙂
 
 ## Mein Stack
-- Symfony / PHP 🖥
+
+### Professional
+- PHP 🖥
+- Typescript + React 📝⚛
+
+### Personal
+- Astro 🌌
 - Javascript 📝
-- React ⚛
-- SCSS 🎨
+- TailwindCSS 🌬️
 
 ## Kontakt
-[LinkedIn](https://www.linkedin.com/in/maximilian-grabau/) | [XING](https://www.xing.com/profile/Maximilian_Grabau/)
+[LinkedIn](https://www.linkedin.com/in/maximilian-grabau/)
 
 ## Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeronacer&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
