@@ -1,20 +1,8 @@
-# Hi, ich bin Maximilian.
-Als Full-Stack-Webentwickler aus Lübeck arbeite ich mithilfe von PHP, React und WordPress daran, das Netz zu einem besseren Ort zu machen.
-Besuch mich auf [grabau.dev](https://grabau.dev/). 🙂
+### Hi, I'm Maximilian! 🌿
 
-## Mein Stack
+#### Currently working on making the internet a better place as a Full-Stack Developer.
 
-### Professional
-- PHP 🖥
-- Typescript + React 📝⚛
+- ⚙️ **Daily drivers:** `.php`, `.tsx`, `.html`, `.css`
+- 💘 **Passions:** Software Architecture, Developer Tooling, UI/UX
 
-### Personal
-- Astro 🌌
-- Javascript 📝
-- TailwindCSS 🌬️
-
-## Kontakt
-[LinkedIn](https://www.linkedin.com/in/maximilian-grabau/)
-
-## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeronacer&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+Find me on [LinkedIn](www.linkedin.com/in/maximilian-grabau) or visit my [website](https://grabau.dev) 🏝️
